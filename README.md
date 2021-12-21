@@ -1,6 +1,6 @@
 # Phishing_website_detection
 
-phishing_site_url contains dataset which is in csv file
+phishing_site_url contains dataset which is in csv format
 
 phishing_website_detection.ipynb contains 3 algorithums used to detect weather the url is bad or good 
 
